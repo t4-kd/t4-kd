@@ -8,5 +8,5 @@
 </div>
 
 <p align="center">
-  <img src="yeayep/unbreon.gif" />
+  <img src="yeayep/unbreon.gif" height="100px" />
 </p>
