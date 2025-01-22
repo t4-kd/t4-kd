@@ -8,5 +8,5 @@
 </div>
 
 <p align="center">
-  <img src="Assets/Gif/sleep.gif" />
+  <img src="yeayep/sleep.gif" />
 </p>
